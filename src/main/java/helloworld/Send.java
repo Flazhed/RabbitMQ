@@ -16,7 +16,7 @@ import java.util.concurrent.TimeoutException;
  */
 public class Send {
 
-    private final static String QUEUE_NAME = "helloper";
+    private final static String QUEUE_NAME = "hellolaks";
 
     public static void main(String[] argv)
             throws java.io.IOException, TimeoutException {
